@@ -37,7 +37,7 @@
 class AbdalrhmanEmad {
   final String university = "Information Systems Student";
   final String passion = "Mobile App Development with Flutter";
-  final List<String> skills = ["Dart", "Flutter", "C++", "Python", "HTML", "CSS", "JavaScript"];
+  final List<String> skills = ["Dart", "Flutter", "C++", "Python"];
   
   void currentFocus() {
     print("Learning Flutter & Building Mobile Apps 🚀");
