@@ -6,7 +6,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdalrhmanemad&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ---
 
